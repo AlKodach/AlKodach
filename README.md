@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlKodach
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any web dev
-- 📫 How to reach me ali.kodach@gmail.com, Facebook: Ali Kodach
+- 👀 I’m interested in building real apps to solve problems
+- 🌱 I’m currently learning Tailwind Css, Next.js, React Native etc
+- 💞️ I’m looking to collaborate on any frontend dev project 
+- 📫 How to reach me ali.kodach@gmail.com, Facebook: Ali Kodach, Twitter: AliAlidu2, dev.to@alkodach
 
 
 <!---
